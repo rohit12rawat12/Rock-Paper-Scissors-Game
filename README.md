@@ -1,3 +1,3 @@
 # Rock-Paper-Scissors-Game
 
-![GIF](gif/GIF.gif)
+![GIF](gif/output.gif)
